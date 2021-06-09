@@ -5,4 +5,4 @@ def randInt(max=100,min=0):
 print(randInt())
 print(randInt(max=50))
 print(randInt(min=50))
-print(randInt(min=50,max=100))
+print(randInt(min=50,max=500))
